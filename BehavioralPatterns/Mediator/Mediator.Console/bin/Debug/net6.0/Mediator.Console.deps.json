@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Mediator.Console/1.0.0": {
+        "dependencies": {
+          "Mediator.Core": "1.0.0"
+        },
+        "runtime": {
+          "Mediator.Console.dll": {}
+        }
+      },
+      "Mediator.Core/1.0.0": {
+        "runtime": {
+          "Mediator.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mediator.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mediator.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

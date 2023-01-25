@@ -1,0 +1,12 @@
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Iterator\Iterator.Core\bin\Debug\net6.0\Iterator.Core.deps.json
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Iterator\Iterator.Core\bin\Debug\net6.0\Iterator.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Iterator\Iterator.Core\bin\Debug\net6.0\Iterator.Core.pdb
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Iterator\Iterator.Core\obj\Debug\net6.0\Iterator.Core.csproj.AssemblyReference.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Iterator\Iterator.Core\obj\Debug\net6.0\Iterator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Iterator\Iterator.Core\obj\Debug\net6.0\Iterator.Core.AssemblyInfoInputs.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Iterator\Iterator.Core\obj\Debug\net6.0\Iterator.Core.AssemblyInfo.cs
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Iterator\Iterator.Core\obj\Debug\net6.0\Iterator.Core.csproj.CoreCompileInputs.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Iterator\Iterator.Core\obj\Debug\net6.0\Iterator.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Iterator\Iterator.Core\obj\Debug\net6.0\refint\Iterator.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Iterator\Iterator.Core\obj\Debug\net6.0\Iterator.Core.pdb
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Iterator\Iterator.Core\obj\Debug\net6.0\ref\Iterator.Core.dll

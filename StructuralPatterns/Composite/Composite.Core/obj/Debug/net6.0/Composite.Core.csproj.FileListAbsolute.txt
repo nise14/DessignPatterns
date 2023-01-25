@@ -1,0 +1,12 @@
+C:\Repository\PatternsAndDesign\StructuralPatterns\Composite\Composite.Core\bin\Debug\net6.0\Composite.Core.deps.json
+C:\Repository\PatternsAndDesign\StructuralPatterns\Composite\Composite.Core\bin\Debug\net6.0\Composite.Core.dll
+C:\Repository\PatternsAndDesign\StructuralPatterns\Composite\Composite.Core\bin\Debug\net6.0\Composite.Core.pdb
+C:\Repository\PatternsAndDesign\StructuralPatterns\Composite\Composite.Core\obj\Debug\net6.0\Composite.Core.csproj.AssemblyReference.cache
+C:\Repository\PatternsAndDesign\StructuralPatterns\Composite\Composite.Core\obj\Debug\net6.0\Composite.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\PatternsAndDesign\StructuralPatterns\Composite\Composite.Core\obj\Debug\net6.0\Composite.Core.AssemblyInfoInputs.cache
+C:\Repository\PatternsAndDesign\StructuralPatterns\Composite\Composite.Core\obj\Debug\net6.0\Composite.Core.AssemblyInfo.cs
+C:\Repository\PatternsAndDesign\StructuralPatterns\Composite\Composite.Core\obj\Debug\net6.0\Composite.Core.csproj.CoreCompileInputs.cache
+C:\Repository\PatternsAndDesign\StructuralPatterns\Composite\Composite.Core\obj\Debug\net6.0\Composite.Core.dll
+C:\Repository\PatternsAndDesign\StructuralPatterns\Composite\Composite.Core\obj\Debug\net6.0\refint\Composite.Core.dll
+C:\Repository\PatternsAndDesign\StructuralPatterns\Composite\Composite.Core\obj\Debug\net6.0\Composite.Core.pdb
+C:\Repository\PatternsAndDesign\StructuralPatterns\Composite\Composite.Core\obj\Debug\net6.0\ref\Composite.Core.dll

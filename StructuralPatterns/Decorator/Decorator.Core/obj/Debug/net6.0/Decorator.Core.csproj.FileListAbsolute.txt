@@ -1,0 +1,12 @@
+C:\Repository\PatternsAndDesign\StructuralPatterns\Decorator\Decorator.Core\bin\Debug\net6.0\Decorator.Core.deps.json
+C:\Repository\PatternsAndDesign\StructuralPatterns\Decorator\Decorator.Core\bin\Debug\net6.0\Decorator.Core.dll
+C:\Repository\PatternsAndDesign\StructuralPatterns\Decorator\Decorator.Core\bin\Debug\net6.0\Decorator.Core.pdb
+C:\Repository\PatternsAndDesign\StructuralPatterns\Decorator\Decorator.Core\obj\Debug\net6.0\Decorator.Core.csproj.AssemblyReference.cache
+C:\Repository\PatternsAndDesign\StructuralPatterns\Decorator\Decorator.Core\obj\Debug\net6.0\Decorator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\PatternsAndDesign\StructuralPatterns\Decorator\Decorator.Core\obj\Debug\net6.0\Decorator.Core.AssemblyInfoInputs.cache
+C:\Repository\PatternsAndDesign\StructuralPatterns\Decorator\Decorator.Core\obj\Debug\net6.0\Decorator.Core.AssemblyInfo.cs
+C:\Repository\PatternsAndDesign\StructuralPatterns\Decorator\Decorator.Core\obj\Debug\net6.0\Decorator.Core.csproj.CoreCompileInputs.cache
+C:\Repository\PatternsAndDesign\StructuralPatterns\Decorator\Decorator.Core\obj\Debug\net6.0\Decorator.Core.dll
+C:\Repository\PatternsAndDesign\StructuralPatterns\Decorator\Decorator.Core\obj\Debug\net6.0\refint\Decorator.Core.dll
+C:\Repository\PatternsAndDesign\StructuralPatterns\Decorator\Decorator.Core\obj\Debug\net6.0\Decorator.Core.pdb
+C:\Repository\PatternsAndDesign\StructuralPatterns\Decorator\Decorator.Core\obj\Debug\net6.0\ref\Decorator.Core.dll

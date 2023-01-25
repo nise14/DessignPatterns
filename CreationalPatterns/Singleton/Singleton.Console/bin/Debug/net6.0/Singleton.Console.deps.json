@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Singleton.Console/1.0.0": {
+        "dependencies": {
+          "Singleton.Core": "1.0.0"
+        },
+        "runtime": {
+          "Singleton.Console.dll": {}
+        }
+      },
+      "Singleton.Core/1.0.0": {
+        "runtime": {
+          "Singleton.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Singleton.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Singleton.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

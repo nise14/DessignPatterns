@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Builder.Console/1.0.0": {
+        "dependencies": {
+          "Builder.Method": "1.0.0"
+        },
+        "runtime": {
+          "Builder.Console.dll": {}
+        }
+      },
+      "Builder.Method/1.0.0": {
+        "runtime": {
+          "Builder.Method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Builder.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Builder.Method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

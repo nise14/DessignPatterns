@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Facade.Console/1.0.0": {
+        "dependencies": {
+          "Facade.Core": "1.0.0"
+        },
+        "runtime": {
+          "Facade.Console.dll": {}
+        }
+      },
+      "Facade.Core/1.0.0": {
+        "runtime": {
+          "Facade.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Facade.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Facade.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

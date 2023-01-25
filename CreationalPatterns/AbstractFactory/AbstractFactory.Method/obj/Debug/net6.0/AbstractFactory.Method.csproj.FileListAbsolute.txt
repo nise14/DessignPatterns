@@ -1,0 +1,12 @@
+C:\Repository\PatternsAndDesign\CreationalPatterns\AbstractFactory\AbstractFactory.Method\bin\Debug\net6.0\AbstractFactory.Method.deps.json
+C:\Repository\PatternsAndDesign\CreationalPatterns\AbstractFactory\AbstractFactory.Method\bin\Debug\net6.0\AbstractFactory.Method.dll
+C:\Repository\PatternsAndDesign\CreationalPatterns\AbstractFactory\AbstractFactory.Method\bin\Debug\net6.0\AbstractFactory.Method.pdb
+C:\Repository\PatternsAndDesign\CreationalPatterns\AbstractFactory\AbstractFactory.Method\obj\Debug\net6.0\AbstractFactory.Method.csproj.AssemblyReference.cache
+C:\Repository\PatternsAndDesign\CreationalPatterns\AbstractFactory\AbstractFactory.Method\obj\Debug\net6.0\AbstractFactory.Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\PatternsAndDesign\CreationalPatterns\AbstractFactory\AbstractFactory.Method\obj\Debug\net6.0\AbstractFactory.Method.AssemblyInfoInputs.cache
+C:\Repository\PatternsAndDesign\CreationalPatterns\AbstractFactory\AbstractFactory.Method\obj\Debug\net6.0\AbstractFactory.Method.AssemblyInfo.cs
+C:\Repository\PatternsAndDesign\CreationalPatterns\AbstractFactory\AbstractFactory.Method\obj\Debug\net6.0\AbstractFactory.Method.csproj.CoreCompileInputs.cache
+C:\Repository\PatternsAndDesign\CreationalPatterns\AbstractFactory\AbstractFactory.Method\obj\Debug\net6.0\AbstractFactory.Method.dll
+C:\Repository\PatternsAndDesign\CreationalPatterns\AbstractFactory\AbstractFactory.Method\obj\Debug\net6.0\refint\AbstractFactory.Method.dll
+C:\Repository\PatternsAndDesign\CreationalPatterns\AbstractFactory\AbstractFactory.Method\obj\Debug\net6.0\AbstractFactory.Method.pdb
+C:\Repository\PatternsAndDesign\CreationalPatterns\AbstractFactory\AbstractFactory.Method\obj\Debug\net6.0\ref\AbstractFactory.Method.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Decorator.Console/1.0.0": {
+        "dependencies": {
+          "Decorator.Core": "1.0.0"
+        },
+        "runtime": {
+          "Decorator.Console.dll": {}
+        }
+      },
+      "Decorator.Core/1.0.0": {
+        "runtime": {
+          "Decorator.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decorator.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Decorator.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

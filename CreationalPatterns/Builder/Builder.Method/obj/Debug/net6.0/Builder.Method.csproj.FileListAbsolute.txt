@@ -1,0 +1,12 @@
+C:\Repository\PatternsAndDesign\CreationalPatterns\Builder\Builder.Method\bin\Debug\net6.0\Builder.Method.deps.json
+C:\Repository\PatternsAndDesign\CreationalPatterns\Builder\Builder.Method\bin\Debug\net6.0\Builder.Method.dll
+C:\Repository\PatternsAndDesign\CreationalPatterns\Builder\Builder.Method\bin\Debug\net6.0\Builder.Method.pdb
+C:\Repository\PatternsAndDesign\CreationalPatterns\Builder\Builder.Method\obj\Debug\net6.0\Builder.Method.csproj.AssemblyReference.cache
+C:\Repository\PatternsAndDesign\CreationalPatterns\Builder\Builder.Method\obj\Debug\net6.0\Builder.Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\PatternsAndDesign\CreationalPatterns\Builder\Builder.Method\obj\Debug\net6.0\Builder.Method.AssemblyInfoInputs.cache
+C:\Repository\PatternsAndDesign\CreationalPatterns\Builder\Builder.Method\obj\Debug\net6.0\Builder.Method.AssemblyInfo.cs
+C:\Repository\PatternsAndDesign\CreationalPatterns\Builder\Builder.Method\obj\Debug\net6.0\Builder.Method.csproj.CoreCompileInputs.cache
+C:\Repository\PatternsAndDesign\CreationalPatterns\Builder\Builder.Method\obj\Debug\net6.0\Builder.Method.dll
+C:\Repository\PatternsAndDesign\CreationalPatterns\Builder\Builder.Method\obj\Debug\net6.0\refint\Builder.Method.dll
+C:\Repository\PatternsAndDesign\CreationalPatterns\Builder\Builder.Method\obj\Debug\net6.0\Builder.Method.pdb
+C:\Repository\PatternsAndDesign\CreationalPatterns\Builder\Builder.Method\obj\Debug\net6.0\ref\Builder.Method.dll

@@ -1,0 +1,12 @@
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Visitor\Visitor.Core\obj\Debug\net6.0\Visitor.Core.csproj.AssemblyReference.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Visitor\Visitor.Core\obj\Debug\net6.0\Visitor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Visitor\Visitor.Core\obj\Debug\net6.0\Visitor.Core.AssemblyInfoInputs.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Visitor\Visitor.Core\obj\Debug\net6.0\Visitor.Core.AssemblyInfo.cs
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Visitor\Visitor.Core\obj\Debug\net6.0\Visitor.Core.csproj.CoreCompileInputs.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Visitor\Visitor.Core\bin\Debug\net6.0\Visitor.Core.deps.json
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Visitor\Visitor.Core\bin\Debug\net6.0\Visitor.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Visitor\Visitor.Core\bin\Debug\net6.0\Visitor.Core.pdb
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Visitor\Visitor.Core\obj\Debug\net6.0\Visitor.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Visitor\Visitor.Core\obj\Debug\net6.0\refint\Visitor.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Visitor\Visitor.Core\obj\Debug\net6.0\Visitor.Core.pdb
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Visitor\Visitor.Core\obj\Debug\net6.0\ref\Visitor.Core.dll

@@ -1,0 +1,12 @@
+C:\Repository\PatternsAndDesign\BehavioralPatterns\State\State.Core\bin\Debug\net6.0\State.Core.deps.json
+C:\Repository\PatternsAndDesign\BehavioralPatterns\State\State.Core\bin\Debug\net6.0\State.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\State\State.Core\bin\Debug\net6.0\State.Core.pdb
+C:\Repository\PatternsAndDesign\BehavioralPatterns\State\State.Core\obj\Debug\net6.0\State.Core.csproj.AssemblyReference.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\State\State.Core\obj\Debug\net6.0\State.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\PatternsAndDesign\BehavioralPatterns\State\State.Core\obj\Debug\net6.0\State.Core.AssemblyInfoInputs.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\State\State.Core\obj\Debug\net6.0\State.Core.AssemblyInfo.cs
+C:\Repository\PatternsAndDesign\BehavioralPatterns\State\State.Core\obj\Debug\net6.0\State.Core.csproj.CoreCompileInputs.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\State\State.Core\obj\Debug\net6.0\State.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\State\State.Core\obj\Debug\net6.0\refint\State.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\State\State.Core\obj\Debug\net6.0\State.Core.pdb
+C:\Repository\PatternsAndDesign\BehavioralPatterns\State\State.Core\obj\Debug\net6.0\ref\State.Core.dll

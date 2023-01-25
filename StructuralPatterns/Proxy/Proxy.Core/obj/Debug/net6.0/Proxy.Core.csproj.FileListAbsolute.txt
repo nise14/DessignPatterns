@@ -1,0 +1,12 @@
+C:\Repository\PatternsAndDesign\StructuralPatterns\Proxy\Proxy.Core\bin\Debug\net6.0\Proxy.Core.deps.json
+C:\Repository\PatternsAndDesign\StructuralPatterns\Proxy\Proxy.Core\bin\Debug\net6.0\Proxy.Core.dll
+C:\Repository\PatternsAndDesign\StructuralPatterns\Proxy\Proxy.Core\bin\Debug\net6.0\Proxy.Core.pdb
+C:\Repository\PatternsAndDesign\StructuralPatterns\Proxy\Proxy.Core\obj\Debug\net6.0\Proxy.Core.csproj.AssemblyReference.cache
+C:\Repository\PatternsAndDesign\StructuralPatterns\Proxy\Proxy.Core\obj\Debug\net6.0\Proxy.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\PatternsAndDesign\StructuralPatterns\Proxy\Proxy.Core\obj\Debug\net6.0\Proxy.Core.AssemblyInfoInputs.cache
+C:\Repository\PatternsAndDesign\StructuralPatterns\Proxy\Proxy.Core\obj\Debug\net6.0\Proxy.Core.AssemblyInfo.cs
+C:\Repository\PatternsAndDesign\StructuralPatterns\Proxy\Proxy.Core\obj\Debug\net6.0\Proxy.Core.csproj.CoreCompileInputs.cache
+C:\Repository\PatternsAndDesign\StructuralPatterns\Proxy\Proxy.Core\obj\Debug\net6.0\Proxy.Core.dll
+C:\Repository\PatternsAndDesign\StructuralPatterns\Proxy\Proxy.Core\obj\Debug\net6.0\refint\Proxy.Core.dll
+C:\Repository\PatternsAndDesign\StructuralPatterns\Proxy\Proxy.Core\obj\Debug\net6.0\Proxy.Core.pdb
+C:\Repository\PatternsAndDesign\StructuralPatterns\Proxy\Proxy.Core\obj\Debug\net6.0\ref\Proxy.Core.dll

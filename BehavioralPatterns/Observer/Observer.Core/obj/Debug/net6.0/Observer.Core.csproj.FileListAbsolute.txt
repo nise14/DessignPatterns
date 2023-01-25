@@ -1,0 +1,12 @@
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Observer\Observer.Core\bin\Debug\net6.0\Observer.Core.deps.json
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Observer\Observer.Core\bin\Debug\net6.0\Observer.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Observer\Observer.Core\bin\Debug\net6.0\Observer.Core.pdb
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Observer\Observer.Core\obj\Debug\net6.0\Observer.Core.csproj.AssemblyReference.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Observer\Observer.Core\obj\Debug\net6.0\Observer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Observer\Observer.Core\obj\Debug\net6.0\Observer.Core.AssemblyInfoInputs.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Observer\Observer.Core\obj\Debug\net6.0\Observer.Core.AssemblyInfo.cs
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Observer\Observer.Core\obj\Debug\net6.0\Observer.Core.csproj.CoreCompileInputs.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Observer\Observer.Core\obj\Debug\net6.0\Observer.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Observer\Observer.Core\obj\Debug\net6.0\refint\Observer.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Observer\Observer.Core\obj\Debug\net6.0\Observer.Core.pdb
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Observer\Observer.Core\obj\Debug\net6.0\ref\Observer.Core.dll

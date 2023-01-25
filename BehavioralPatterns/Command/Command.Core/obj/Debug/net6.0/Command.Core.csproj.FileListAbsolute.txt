@@ -1,0 +1,12 @@
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Command\Command.Core\bin\Debug\net6.0\Command.Core.deps.json
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Command\Command.Core\bin\Debug\net6.0\Command.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Command\Command.Core\bin\Debug\net6.0\Command.Core.pdb
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Command\Command.Core\obj\Debug\net6.0\Command.Core.csproj.AssemblyReference.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Command\Command.Core\obj\Debug\net6.0\Command.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Command\Command.Core\obj\Debug\net6.0\Command.Core.AssemblyInfoInputs.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Command\Command.Core\obj\Debug\net6.0\Command.Core.AssemblyInfo.cs
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Command\Command.Core\obj\Debug\net6.0\Command.Core.csproj.CoreCompileInputs.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Command\Command.Core\obj\Debug\net6.0\Command.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Command\Command.Core\obj\Debug\net6.0\refint\Command.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Command\Command.Core\obj\Debug\net6.0\Command.Core.pdb
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Command\Command.Core\obj\Debug\net6.0\ref\Command.Core.dll

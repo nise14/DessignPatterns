@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Observer.Console/1.0.0": {
+        "dependencies": {
+          "Observer.Core": "1.0.0"
+        },
+        "runtime": {
+          "Observer.Console.dll": {}
+        }
+      },
+      "Observer.Core/1.0.0": {
+        "runtime": {
+          "Observer.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Observer.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Observer.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

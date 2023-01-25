@@ -1,0 +1,12 @@
+C:\Repository\PatternsAndDesign\StructuralPatterns\Facade\Facade.Core\bin\Debug\net6.0\Facade.Core.deps.json
+C:\Repository\PatternsAndDesign\StructuralPatterns\Facade\Facade.Core\bin\Debug\net6.0\Facade.Core.dll
+C:\Repository\PatternsAndDesign\StructuralPatterns\Facade\Facade.Core\bin\Debug\net6.0\Facade.Core.pdb
+C:\Repository\PatternsAndDesign\StructuralPatterns\Facade\Facade.Core\obj\Debug\net6.0\Facade.Core.csproj.AssemblyReference.cache
+C:\Repository\PatternsAndDesign\StructuralPatterns\Facade\Facade.Core\obj\Debug\net6.0\Facade.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\PatternsAndDesign\StructuralPatterns\Facade\Facade.Core\obj\Debug\net6.0\Facade.Core.AssemblyInfoInputs.cache
+C:\Repository\PatternsAndDesign\StructuralPatterns\Facade\Facade.Core\obj\Debug\net6.0\Facade.Core.AssemblyInfo.cs
+C:\Repository\PatternsAndDesign\StructuralPatterns\Facade\Facade.Core\obj\Debug\net6.0\Facade.Core.csproj.CoreCompileInputs.cache
+C:\Repository\PatternsAndDesign\StructuralPatterns\Facade\Facade.Core\obj\Debug\net6.0\Facade.Core.dll
+C:\Repository\PatternsAndDesign\StructuralPatterns\Facade\Facade.Core\obj\Debug\net6.0\refint\Facade.Core.dll
+C:\Repository\PatternsAndDesign\StructuralPatterns\Facade\Facade.Core\obj\Debug\net6.0\Facade.Core.pdb
+C:\Repository\PatternsAndDesign\StructuralPatterns\Facade\Facade.Core\obj\Debug\net6.0\ref\Facade.Core.dll

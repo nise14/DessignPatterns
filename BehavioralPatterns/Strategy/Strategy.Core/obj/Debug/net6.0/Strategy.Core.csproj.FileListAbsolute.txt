@@ -1,0 +1,12 @@
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Strategy\Strategy.Core\bin\Debug\net6.0\Strategy.Core.deps.json
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Strategy\Strategy.Core\bin\Debug\net6.0\Strategy.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Strategy\Strategy.Core\bin\Debug\net6.0\Strategy.Core.pdb
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Strategy\Strategy.Core\obj\Debug\net6.0\Strategy.Core.csproj.AssemblyReference.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Strategy\Strategy.Core\obj\Debug\net6.0\Strategy.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Strategy\Strategy.Core\obj\Debug\net6.0\Strategy.Core.AssemblyInfoInputs.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Strategy\Strategy.Core\obj\Debug\net6.0\Strategy.Core.AssemblyInfo.cs
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Strategy\Strategy.Core\obj\Debug\net6.0\Strategy.Core.csproj.CoreCompileInputs.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Strategy\Strategy.Core\obj\Debug\net6.0\Strategy.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Strategy\Strategy.Core\obj\Debug\net6.0\refint\Strategy.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Strategy\Strategy.Core\obj\Debug\net6.0\Strategy.Core.pdb
+C:\Repository\PatternsAndDesign\BehavioralPatterns\Strategy\Strategy.Core\obj\Debug\net6.0\ref\Strategy.Core.dll

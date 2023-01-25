@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Flyweight.Console/1.0.0": {
+        "dependencies": {
+          "Flyweight.Core": "1.0.0"
+        },
+        "runtime": {
+          "Flyweight.Console.dll": {}
+        }
+      },
+      "Flyweight.Core/1.0.0": {
+        "runtime": {
+          "Flyweight.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flyweight.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Flyweight.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

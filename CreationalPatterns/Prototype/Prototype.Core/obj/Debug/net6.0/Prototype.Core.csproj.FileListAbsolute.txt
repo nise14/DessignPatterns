@@ -1,0 +1,12 @@
+C:\Repository\PatternsAndDesign\CreationalPatterns\Prototype\Prototype.Core\bin\Debug\net6.0\Prototype.Core.deps.json
+C:\Repository\PatternsAndDesign\CreationalPatterns\Prototype\Prototype.Core\bin\Debug\net6.0\Prototype.Core.dll
+C:\Repository\PatternsAndDesign\CreationalPatterns\Prototype\Prototype.Core\bin\Debug\net6.0\Prototype.Core.pdb
+C:\Repository\PatternsAndDesign\CreationalPatterns\Prototype\Prototype.Core\obj\Debug\net6.0\Prototype.Core.csproj.AssemblyReference.cache
+C:\Repository\PatternsAndDesign\CreationalPatterns\Prototype\Prototype.Core\obj\Debug\net6.0\Prototype.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\PatternsAndDesign\CreationalPatterns\Prototype\Prototype.Core\obj\Debug\net6.0\Prototype.Core.AssemblyInfoInputs.cache
+C:\Repository\PatternsAndDesign\CreationalPatterns\Prototype\Prototype.Core\obj\Debug\net6.0\Prototype.Core.AssemblyInfo.cs
+C:\Repository\PatternsAndDesign\CreationalPatterns\Prototype\Prototype.Core\obj\Debug\net6.0\Prototype.Core.csproj.CoreCompileInputs.cache
+C:\Repository\PatternsAndDesign\CreationalPatterns\Prototype\Prototype.Core\obj\Debug\net6.0\Prototype.Core.dll
+C:\Repository\PatternsAndDesign\CreationalPatterns\Prototype\Prototype.Core\obj\Debug\net6.0\refint\Prototype.Core.dll
+C:\Repository\PatternsAndDesign\CreationalPatterns\Prototype\Prototype.Core\obj\Debug\net6.0\Prototype.Core.pdb
+C:\Repository\PatternsAndDesign\CreationalPatterns\Prototype\Prototype.Core\obj\Debug\net6.0\ref\Prototype.Core.dll

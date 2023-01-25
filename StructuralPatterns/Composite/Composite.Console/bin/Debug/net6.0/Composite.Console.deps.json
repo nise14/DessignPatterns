@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Composite.Console/1.0.0": {
+        "dependencies": {
+          "Composite.Core": "1.0.0"
+        },
+        "runtime": {
+          "Composite.Console.dll": {}
+        }
+      },
+      "Composite.Core/1.0.0": {
+        "runtime": {
+          "Composite.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Composite.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Composite.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Repository\PatternsAndDesign\BehavioralPatterns\ChainOfResponsability\ChainOfResponsability.Core\bin\Debug\net6.0\ChainOfResponsability.Core.deps.json
+C:\Repository\PatternsAndDesign\BehavioralPatterns\ChainOfResponsability\ChainOfResponsability.Core\bin\Debug\net6.0\ChainOfResponsability.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\ChainOfResponsability\ChainOfResponsability.Core\bin\Debug\net6.0\ChainOfResponsability.Core.pdb
+C:\Repository\PatternsAndDesign\BehavioralPatterns\ChainOfResponsability\ChainOfResponsability.Core\obj\Debug\net6.0\ChainOfResponsability.Core.csproj.AssemblyReference.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\ChainOfResponsability\ChainOfResponsability.Core\obj\Debug\net6.0\ChainOfResponsability.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\PatternsAndDesign\BehavioralPatterns\ChainOfResponsability\ChainOfResponsability.Core\obj\Debug\net6.0\ChainOfResponsability.Core.AssemblyInfoInputs.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\ChainOfResponsability\ChainOfResponsability.Core\obj\Debug\net6.0\ChainOfResponsability.Core.AssemblyInfo.cs
+C:\Repository\PatternsAndDesign\BehavioralPatterns\ChainOfResponsability\ChainOfResponsability.Core\obj\Debug\net6.0\ChainOfResponsability.Core.csproj.CoreCompileInputs.cache
+C:\Repository\PatternsAndDesign\BehavioralPatterns\ChainOfResponsability\ChainOfResponsability.Core\obj\Debug\net6.0\ChainOfResponsability.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\ChainOfResponsability\ChainOfResponsability.Core\obj\Debug\net6.0\refint\ChainOfResponsability.Core.dll
+C:\Repository\PatternsAndDesign\BehavioralPatterns\ChainOfResponsability\ChainOfResponsability.Core\obj\Debug\net6.0\ChainOfResponsability.Core.pdb
+C:\Repository\PatternsAndDesign\BehavioralPatterns\ChainOfResponsability\ChainOfResponsability.Core\obj\Debug\net6.0\ref\ChainOfResponsability.Core.dll

@@ -1,0 +1,12 @@
+C:\Repository\PatternsAndDesign\StructuralPatterns\Bridge\Bridge.Core\bin\Debug\net6.0\Bridge.Core.deps.json
+C:\Repository\PatternsAndDesign\StructuralPatterns\Bridge\Bridge.Core\bin\Debug\net6.0\Bridge.Core.dll
+C:\Repository\PatternsAndDesign\StructuralPatterns\Bridge\Bridge.Core\bin\Debug\net6.0\Bridge.Core.pdb
+C:\Repository\PatternsAndDesign\StructuralPatterns\Bridge\Bridge.Core\obj\Debug\net6.0\Bridge.Core.csproj.AssemblyReference.cache
+C:\Repository\PatternsAndDesign\StructuralPatterns\Bridge\Bridge.Core\obj\Debug\net6.0\Bridge.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\PatternsAndDesign\StructuralPatterns\Bridge\Bridge.Core\obj\Debug\net6.0\Bridge.Core.AssemblyInfoInputs.cache
+C:\Repository\PatternsAndDesign\StructuralPatterns\Bridge\Bridge.Core\obj\Debug\net6.0\Bridge.Core.AssemblyInfo.cs
+C:\Repository\PatternsAndDesign\StructuralPatterns\Bridge\Bridge.Core\obj\Debug\net6.0\Bridge.Core.csproj.CoreCompileInputs.cache
+C:\Repository\PatternsAndDesign\StructuralPatterns\Bridge\Bridge.Core\obj\Debug\net6.0\Bridge.Core.dll
+C:\Repository\PatternsAndDesign\StructuralPatterns\Bridge\Bridge.Core\obj\Debug\net6.0\refint\Bridge.Core.dll
+C:\Repository\PatternsAndDesign\StructuralPatterns\Bridge\Bridge.Core\obj\Debug\net6.0\Bridge.Core.pdb
+C:\Repository\PatternsAndDesign\StructuralPatterns\Bridge\Bridge.Core\obj\Debug\net6.0\ref\Bridge.Core.dll
